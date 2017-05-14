@@ -1,15 +1,3 @@
-﻿  imgui.cpp
-  imgui_draw.cpp
-  Application.cpp
-  Audio.cpp
-  Font.cpp
-  Gizmos.cpp
-  imgui_glfw3.cpp
-  Input.cpp
-  Renderer2D.cpp
-  SoundManager.cpp
-  Texture.cpp
-  gl_core_4_4.c
-libsndfile-1.lib(libsndfile-1.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
+﻿libsndfile-1.lib(libsndfile-1.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
 OpenAL32.lib(OpenAL32.dll) : warning LNK4006: __NULL_IMPORT_DESCRIPTOR already defined in opengl32.lib(OPENGL32.dll); second definition ignored
   Bootstrap.vcxproj -> C:\Users\Brad\Desktop\AIEMathsGame\trunk\\libs\Bootstrap.lib

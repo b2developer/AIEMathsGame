@@ -1,8 +1,32 @@
-﻿  mount_entity.cpp
+﻿  AABB.cpp
+  Application2D.cpp
+  base_entity.cpp
+  bsp_generator.cpp
+  car_entity.cpp
+  circle.cpp
+  collider.cpp
+  collision.cpp
+  container.cpp
+  enemy_entity.cpp
+  factory.cpp
+  file_manager.cpp
+  line.cpp
+  main.cpp
+  mount_entity.cpp
+  partition.cpp
+  path.cpp
+  physics.cpp
+  player_entity.cpp
+  point.cpp
+  Compiling...
+  polygon.cpp
+  projectile_entity.cpp
+  seat_entity.cpp
+  transform.cpp
+  wall_entity.cpp
+  weapon_entity.cpp
   Generating code
-  3 of 3454 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  All 3454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   MathsGame.vcxproj -> C:\Users\Brad\Desktop\AIEMathsGame\trunk\\bin\MathsGame.exe
   MathsGame.vcxproj -> C:\Users\Brad\Desktop\AIEMathsGame\trunk\\bin\MathsGame.pdb (Full PDB)
